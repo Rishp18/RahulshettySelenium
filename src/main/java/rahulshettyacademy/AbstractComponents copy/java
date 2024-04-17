@@ -1,0 +1,10 @@
+
+
+public static void main (String[]args){
+    A=20;
+    B=30;
+    c=40;
+    d=A+B+c
+    system.out.println(d);
+    system.out.println(d);
+}
